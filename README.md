@@ -1,2 +1,2 @@
-# CalcaladorSencillo
+# CalculadorSencillo
  Calculador sencillo para enyoi
